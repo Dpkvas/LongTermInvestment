@@ -43,7 +43,7 @@ This analysis seeks to reassure investors and decision-makers that downturns are
    - Demonstrates that long-term returns stabilize and grow even through volatile periods.
 
 4. **Investment Growth Simulation**
-   - Example: “**If you invested $10,000 in the S&P 500 during the 2008 crisis, it would be worth ~$66,000 by 2024.**”
+   - Example: “**If you invested $10,000 in the S&P 500 during the 2008 crisis, it would be worth ~$60,000 by 2024.**”
 
 ---
 
