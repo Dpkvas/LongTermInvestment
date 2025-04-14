@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project analyzes over 40 years of S&P 500 historical data to demonstrate a simple but powerful investing principle: staying invested in the market over the long term consistently beats trying to time market ups and downs. Through drawdown analysis, recovery detection, and rolling CAGR calculations, this notebook visually highlights how bear markets are temporary, and long-term investment leads to significant growth.
+This project analyses over 40 years of S&P 500 historical data to demonstrate a simple but powerful investing principle: staying invested in the market over the long term consistently beats trying to time market ups and downs. Through drawdown analysis, recovery detection, and rolling CAGR calculations, this notebook visually highlights how bear markets are temporary, and long-term investment leads to significant growth.
 
 ---
 
